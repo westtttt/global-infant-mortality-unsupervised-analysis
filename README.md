@@ -1,1 +1,3 @@
-# global-infant-mortality-unsupervised-analysis
+Unsupervised Analysis of Global Infant Mortality Trends
+
+This report presents an analysis of global infant mortality data collected between 1960 and 2021. Initially, data preparation and exploratory data analysis are used to identify trends, cross-country patterns, and disparities in infant mortality outcomes. Unsupervised learning techniques are then applied, using K-means clustering, to group countries based on similarities in long-term infant mortality levels and variability. Clustering selection is assessed using the elbow method and silhouette scores to determine an appropriate number of clusters, and the results show distinct groups of countries with different mortality profiles, reflecting differences in development outcomes. 
